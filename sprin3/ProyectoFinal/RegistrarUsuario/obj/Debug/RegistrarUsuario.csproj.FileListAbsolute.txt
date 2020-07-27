@@ -1,0 +1,32 @@
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csprojAssemblyReference.cache
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.Form1.resources
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.Properties.Resources.resources
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csproj.GenerateResource.cache
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.exe.config
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.exe
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.pdb
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\bin\Debug\ConexcionBD.dll
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csproj.CopyComplete
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.exe
+D:\ASP.NET\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.exe.config
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.Form1.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.Properties.Resources.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csproj.GenerateResource.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.exe.config
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\bin\Debug\RegistrarUsuario.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.Form1.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.Properties.Resources.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\RegistrarUsuario\obj\Debug\RegistrarUsuario.pdb

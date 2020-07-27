@@ -1,0 +1,11 @@
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\bin\Debug\Loggin.exe.config
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\bin\Debug\Loggin.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\bin\Debug\Loggin.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\obj\Debug\login.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\obj\Debug\Loggin.Form1.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\obj\Debug\Loggin.Notificacion.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\obj\Debug\Loggin.Properties.Resources.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\obj\Debug\login.csproj.GenerateResource.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\obj\Debug\login.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\obj\Debug\Loggin.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Loggin\obj\Debug\Loggin.pdb

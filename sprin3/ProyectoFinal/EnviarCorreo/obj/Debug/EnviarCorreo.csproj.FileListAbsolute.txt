@@ -1,0 +1,40 @@
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csprojAssemblyReference.cache
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.GenerateResource.cache
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\ASP.NET\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csprojAssemblyReference.cache
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.GenerateResource.cache
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.CoreCompileInputs.cache
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+C:\Users\USER}\Documents\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.GenerateResource.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\EnviarCorreo\obj\Debug\EnviarCorreo.pdb

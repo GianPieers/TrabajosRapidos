@@ -1,0 +1,44 @@
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.exe.config
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.exe
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.pdb
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csprojAssemblyReference.cache
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.Form1.resources
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.Properties.Resources.resources
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.GenerateResource.cache
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.exe
+D:\ASP.NET\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.exe.config
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.Form1.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.Properties.Resources.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.GenerateResource.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.pdb
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.exe.config
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.exe
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.pdb
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csprojAssemblyReference.cache
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.Form1.resources
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.Properties.Resources.resources
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.GenerateResource.cache
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.CoreCompileInputs.cache
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.exe
+C:\Users\USER}\Documents\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.exe.config
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\bin\Debug\PublicarTrabajo.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\bin\Debug\Loggin.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\bin\Debug\Loggin.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\bin\Debug\Loggin.exe.config
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.Form1.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.Properties.Resources.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.csproj.CopyComplete
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PublicarTrabajo\obj\Debug\PublicarTrabajo.pdb

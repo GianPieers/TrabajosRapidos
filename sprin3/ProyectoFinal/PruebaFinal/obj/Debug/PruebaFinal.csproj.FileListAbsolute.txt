@@ -1,0 +1,40 @@
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\PruebaFinal.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\PruebaFinal.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.csproj.CopyComplete
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\PruebaFinal.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\PruebaFinal.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\ModificarPublicacion.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\PublicarTrabajo.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\ModificarPublicacion.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\ModificarPublicacion.exe.config
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\PublicarTrabajo.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\PublicarTrabajo.exe.config
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\PruebaFinal\obj\Debug\PruebaFinal.csproj.CopyComplete

@@ -1,0 +1,52 @@
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.exe
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.deps.json
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.json
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.dev.json
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.dll
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.pdb
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csprojAssemblyReference.cache
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
+D:\ASP.NET\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.genruntimeconfig.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.deps.json
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.json
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.dev.json
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.genruntimeconfig.cache
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.exe
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.deps.json
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.json
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.dev.json
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.dll
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.pdb
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
+C:\Users\USER}\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.genruntimeconfig.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.deps.json
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.json
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.dev.json
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\Final\sprin2\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.genruntimeconfig.cache

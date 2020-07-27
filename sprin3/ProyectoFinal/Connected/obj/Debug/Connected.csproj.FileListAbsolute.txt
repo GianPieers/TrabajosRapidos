@@ -1,0 +1,10 @@
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\obj\Debug\Connected.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\obj\Debug\Connected.Form1.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\obj\Debug\Connected.Properties.Resources.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\obj\Debug\Connected.csproj.GenerateResource.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\obj\Debug\Connected.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\bin\Debug\Connected.exe.config
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\bin\Debug\Connected.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\bin\Debug\Connected.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\obj\Debug\Connected.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\Connected\obj\Debug\Connected.pdb

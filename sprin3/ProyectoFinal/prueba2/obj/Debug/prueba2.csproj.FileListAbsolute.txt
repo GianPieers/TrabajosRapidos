@@ -1,0 +1,12 @@
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\bin\Debug\prueba2.exe.config
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\bin\Debug\prueba2.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\bin\Debug\prueba2.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\bin\Debug\ConexcionBD.dll
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\obj\Debug\prueba2.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\obj\Debug\prueba2.Form1.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\obj\Debug\prueba2.Properties.Resources.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\obj\Debug\prueba2.csproj.GenerateResource.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\obj\Debug\prueba2.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\obj\Debug\prueba2.csproj.CopyComplete
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\obj\Debug\prueba2.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\prueba2\obj\Debug\prueba2.pdb
